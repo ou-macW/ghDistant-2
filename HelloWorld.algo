@@ -10,7 +10,7 @@ Algo HelloWorld {
       Créer la couleur jaune
       Mettre la couleur jaune sur le label
       Mettre la couleur du texte principal en bleu
-      Mettre le fond d’écran en vert
+      Mettre le fond d’écran en cyan
 
       // Finalisation
       // un nouveau com ici
