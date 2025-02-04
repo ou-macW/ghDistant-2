@@ -4,6 +4,7 @@ Algo HelloWorld {
       Créer une fenetre de titre HELLO_WORLD_TITLE
       Mettre la dimension à 300, 300
       Configurer la fenetre sur ‘exitOnClose’
+   //label affichant la date du jour à côté du label existant
 
       // Création du label de texte
       Créer un label avec du texte centré et contenant le texte HELLO_WORLD_TEXT
